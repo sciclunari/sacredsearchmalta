@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Sacred Search Malta</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Sacred Search Malta</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Daily</title>
+    <link>https://quartz.jzhao.xyz/Calendar/Daily</link>
+    <guid>https://quartz.jzhao.xyz/Calendar/Daily</guid>
+    <description></description>
+    <pubDate>Sun, 24 Sep 2023 14:03:55 GMT</pubDate>
+  </item><item>
+    <title>Saturday</title>
+    <link>https://quartz.jzhao.xyz/Calendar/Weekly/Saturday</link>
+    <guid>https://quartz.jzhao.xyz/Calendar/Weekly/Saturday</guid>
+    <description>16:15 § Baha’i Malta Devotional @ Sgrio Residence.</description>
+    <pubDate>Sun, 24 Sep 2023 14:10:33 GMT</pubDate>
+  </item><item>
+    <title>Sunday</title>
+    <link>https://quartz.jzhao.xyz/Calendar/Weekly/Sunday</link>
+    <guid>https://quartz.jzhao.xyz/Calendar/Weekly/Sunday</guid>
+    <description>10:00 § Greek Orthodox Mass St Nicholas Church except last Sunday of Month St George Church.</description>
+    <pubDate>Sun, 24 Sep 2023 14:04:01 GMT</pubDate>
+  </item><item>
+    <title>Baha&#039;i Malta</title>
+    <link>https://quartz.jzhao.xyz/Communities/Baha'i-Malta</link>
+    <guid>https://quartz.jzhao.xyz/Communities/Baha'i-Malta</guid>
+    <description>Baha’i Faith.</description>
+    <pubDate>Sun, 24 Sep 2023 14:10:23 GMT</pubDate>
+  </item><item>
+    <title>Greek Orthodox</title>
+    <link>https://quartz.jzhao.xyz/Communities/Greek-Orthodox</link>
+    <guid>https://quartz.jzhao.xyz/Communities/Greek-Orthodox</guid>
+    <description>Christian.</description>
+    <pubDate>Sun, 24 Sep 2023 14:02:46 GMT</pubDate>
+  </item><item>
+    <title>Baha&#039;i Faith</title>
+    <link>https://quartz.jzhao.xyz/Faiths/Baha'i-Faith</link>
+    <guid>https://quartz.jzhao.xyz/Faiths/Baha'i-Faith</guid>
+    <description>Christian.</description>
+    <pubDate>Sun, 24 Sep 2023 14:12:46 GMT</pubDate>
+  </item><item>
+    <title>Christian</title>
+    <link>https://quartz.jzhao.xyz/Faiths/Christian</link>
+    <guid>https://quartz.jzhao.xyz/Faiths/Christian</guid>
+    <description></description>
+    <pubDate>Sun, 24 Sep 2023 14:12:46 GMT</pubDate>
+  </item><item>
+    <title>Sgrio Residence</title>
+    <link>https://quartz.jzhao.xyz/Places/Sgrio-Residence</link>
+    <guid>https://quartz.jzhao.xyz/Places/Sgrio-Residence</guid>
+    <description>#sangwann.</description>
+    <pubDate>Sun, 24 Sep 2023 14:11:16 GMT</pubDate>
+  </item><item>
+    <title>St George Church</title>
+    <link>https://quartz.jzhao.xyz/Places/St-George-Church</link>
+    <guid>https://quartz.jzhao.xyz/Places/St-George-Church</guid>
+    <description>#valletta.</description>
+    <pubDate>Sun, 24 Sep 2023 14:02:56 GMT</pubDate>
+  </item><item>
+    <title>St Nicholas Church</title>
+    <link>https://quartz.jzhao.xyz/Places/St-Nicholas-Church</link>
+    <guid>https://quartz.jzhao.xyz/Places/St-Nicholas-Church</guid>
+    <description>#valletta.</description>
+    <pubDate>Sun, 24 Sep 2023 14:02:56 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
