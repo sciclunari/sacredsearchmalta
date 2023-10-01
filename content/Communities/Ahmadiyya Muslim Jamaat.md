@@ -1,0 +1,2 @@
+https://ahmadiyyamalta.org/
+[[Islam]]
