@@ -5506,9 +5506,9 @@ async function renderGraph(container, fullSlug) {
     const linkNodes = selectAll_default2(".link").filter((d2) => d2.source.id === currentId || d2.target.id === currentId);
     linkNodes.transition().duration(200).attr("stroke", "var(--lightgray)");
     const parent = this.parentNode;
-    select_default2(parent).select("text").transition().duration(200).style("opacity", select_default2(parent).select("text").attr("opacityOld")).style("font-size", fontSize + "em");
+    select_default2(parent).select("text").transition().duration(200).style("opacity", 1).style("font-size", fontSize + "em");
   }).call(drag(simulation));
-  const labels = graphNode.append("text").attr("dx", 0).attr("dy", (d) => -nodeRadius(d) + "px").attr("text-anchor", "middle").text((d) => d.text).style("opacity", (opacityScale - 1) / 3.75).style("pointer-events", "none").style("font-size", fontSize + "em").raise().call(drag(simulation));
+  const labels = graphNode.append("text").attr("dx", 0).attr("dy", (d) => -nodeRadius(d) + "px").attr("text-anchor", "middle").text((d) => d.text).style("opacity", 1).style("pointer-events", "none").style("font-size", fontSize + "em").raise().call(drag(simulation));
   if (enableZoom) {
     svg.call(
       zoom_default2().extent([
@@ -5519,7 +5519,7 @@ async function renderGraph(container, fullSlug) {
         node.attr("transform", transform2);
         const scale2 = transform2.k * opacityScale;
         const scaledOpacity = Math.max((scale2 - 1) / 3.75, 0);
-        labels.attr("transform", transform2).style("opacity", scaledOpacity);
+        labels.attr("transform", transform2).style("opacity", 1);
       })
     );
   }
