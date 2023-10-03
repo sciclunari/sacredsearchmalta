@@ -1,1 +1,0 @@
-https://practicalphilosophymalta.eu/

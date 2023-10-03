@@ -20,8 +20,11 @@
     <loc>https://sacredsearchmalta.com/Communities/Bhakti-Marga</loc>
     <lastmod>2023-10-01T10:14:14.330Z</lastmod>
   </url><url>
-    <loc>https://sacredsearchmalta.com/Communities/Greek-Orthodox</loc>
+    <loc>https://sacredsearchmalta.com/Communities/Christian-Orthodox/Greek-Orthodox</loc>
     <lastmod>2023-09-24T14:02:46.466Z</lastmod>
+  </url><url>
+    <loc>https://sacredsearchmalta.com/Communities/Christian-Orthodox/Romanian-Orthodox</loc>
+    <lastmod>2023-10-03T07:58:19.702Z</lastmod>
   </url><url>
     <loc>https://sacredsearchmalta.com/Communities/Jewish</loc>
     <lastmod>2023-10-01T11:06:46.073Z</lastmod>
@@ -29,7 +32,7 @@
     <loc>https://sacredsearchmalta.com/Communities/Lectorium-Rosicrucianum</loc>
     <lastmod>2023-10-01T10:20:49.422Z</lastmod>
   </url><url>
-    <loc>https://sacredsearchmalta.com/Communities/The-School-of-Practical-Philosophy</loc>
+    <loc>https://sacredsearchmalta.com/Communities/School-of-Practical-Philosophy</loc>
     <lastmod>2023-10-01T20:49:47.678Z</lastmod>
   </url><url>
     <loc>https://sacredsearchmalta.com/Communities/Wheel-of-Life</loc>
@@ -50,14 +53,17 @@
     <loc>https://sacredsearchmalta.com/Faiths/Judaism</loc>
     <lastmod>2023-10-01T11:06:55.268Z</lastmod>
   </url><url>
-    <loc>https://sacredsearchmalta.com/Places/St-George-Church</loc>
+    <loc>https://sacredsearchmalta.com/Places/Christian/Valletta/St-George-Church</loc>
     <lastmod>2023-09-24T14:02:56.718Z</lastmod>
   </url><url>
-    <loc>https://sacredsearchmalta.com/Places/St-Nicholas-Church</loc>
+    <loc>https://sacredsearchmalta.com/Places/Christian/Valletta/St-Nicholas-Church</loc>
     <lastmod>2023-09-24T14:02:56.718Z</lastmod>
   </url><url>
-    <loc>https://sacredsearchmalta.com/Places/Synagogue</loc>
+    <loc>https://sacredsearchmalta.com/Places/TaXbiex/Synagogue</loc>
     <lastmod>2023-10-01T11:11:12.097Z</lastmod>
+  </url><url>
+    <loc>https://sacredsearchmalta.com/Places/Unclassified/Valletta/School-of-Practical-Philosophy</loc>
+    <lastmod>2023-10-03T07:55:16.196Z</lastmod>
   </url><url>
     <loc>https://sacredsearchmalta.com/Practices/Baha'i/Devotional</loc>
     <lastmod>2023-09-24T14:10:46.658Z</lastmod>
