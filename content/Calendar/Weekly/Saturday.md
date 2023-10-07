@@ -8,5 +8,5 @@
 
 ## 16:15
 
-[[Baha'i Malta]] [[Devotional]]
+[[Bahai Malta]] [[Devotional]]
 

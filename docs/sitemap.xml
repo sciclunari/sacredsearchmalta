@@ -14,7 +14,7 @@
     <loc>https://sacredsearchmalta.com/Communities/Ahmadiyya-Muslim-Jamaat</loc>
     <lastmod>2023-10-01T10:18:24.222Z</lastmod>
   </url><url>
-    <loc>https://sacredsearchmalta.com/Communities/Baha'i-Malta</loc>
+    <loc>https://sacredsearchmalta.com/Communities/Bahai-Malta</loc>
     <lastmod>2023-09-24T14:10:23.464Z</lastmod>
   </url><url>
     <loc>https://sacredsearchmalta.com/Communities/Bhakti-Marga</loc>
@@ -38,7 +38,7 @@
     <loc>https://sacredsearchmalta.com/Communities/Wheel-of-Life</loc>
     <lastmod>2023-10-02T07:35:25.225Z</lastmod>
   </url><url>
-    <loc>https://sacredsearchmalta.com/Faiths/Baha'i-Faith</loc>
+    <loc>https://sacredsearchmalta.com/Faiths/Bahai-Faith</loc>
     <lastmod>2023-09-24T14:12:46.108Z</lastmod>
   </url><url>
     <loc>https://sacredsearchmalta.com/Faiths/Christian</loc>
@@ -59,14 +59,17 @@
     <loc>https://sacredsearchmalta.com/Places/Christian/Valletta/St-Nicholas-Church</loc>
     <lastmod>2023-09-24T14:02:56.718Z</lastmod>
   </url><url>
-    <loc>https://sacredsearchmalta.com/Places/TaXbiex/Synagogue</loc>
+    <loc>https://sacredsearchmalta.com/Places/Jewish/TaXbiex/Synagogue</loc>
     <lastmod>2023-10-01T11:11:12.097Z</lastmod>
   </url><url>
     <loc>https://sacredsearchmalta.com/Places/Unclassified/Valletta/School-of-Practical-Philosophy</loc>
     <lastmod>2023-10-03T07:55:16.196Z</lastmod>
   </url><url>
-    <loc>https://sacredsearchmalta.com/Practices/Baha'i/Devotional</loc>
+    <loc>https://sacredsearchmalta.com/Practices/Bahai/Devotional</loc>
     <lastmod>2023-09-24T14:10:46.658Z</lastmod>
+  </url><url>
+    <loc>https://sacredsearchmalta.com/Practices/Bahai/</loc>
+    <lastmod>2023-10-07T16:43:15.341Z</lastmod>
   </url><url>
     <loc>https://sacredsearchmalta.com/Practices/Chrisitan/Mass</loc>
     <lastmod>2023-09-24T14:04:27.507Z</lastmod>
@@ -76,6 +79,9 @@
   </url><url>
     <loc>https://sacredsearchmalta.com/Practices/Hindu/Yagna</loc>
     <lastmod>2023-10-01T10:16:13.405Z</lastmod>
+  </url><url>
+    <loc>https://sacredsearchmalta.com/Practices/</loc>
+    <lastmod>2023-10-07T17:05:15.367Z</lastmod>
   </url><url>
     <loc>https://sacredsearchmalta.com/</loc>
     <lastmod>2023-09-24T15:28:58.599Z</lastmod>
